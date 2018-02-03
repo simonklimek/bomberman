@@ -1,0 +1,1 @@
+("6.10.1" ("4b361f7f1c7165fe7e6ff13ea44c3a57ca4e8f08" . "65d10648bb5d0bcdfba9f798405ea56819071e93") #"/Users/szymonklimek/Google Drive/STUDIA/Game-challenge/pong-world-racket-master/pongparts/constants.rkt" (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
